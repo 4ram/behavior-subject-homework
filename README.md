@@ -1,5 +1,7 @@
 # BehaviorSubjectHomework
 
+This is program include a search bar and 2 tabs, first tab includes a list of names and the second tab will change according to the keypress in the search bar.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
 ## Development server
